@@ -1,0 +1,501 @@
+airport_code,city,country
+A001,Dubai,Germany
+A002,Tokyo,germany
+A003,Accra,Germany
+A004,Accra,US A
+A005,New York,Ghana
+A006,NE W YORK,Ghana
+A007,Dubai,uk
+A008,New York,Ghana
+A009,Dubai,GH ANA
+A010,dubai,UK
+A011,Tokyo,UK
+A012,Tokyo,GERMANY
+A013,Dubai,JAPAN
+A014,Accra,uk
+A015,to kyo,UK
+A016,London,UK
+A017,Berlin,USA
+A018,ac cra,GH ANA
+A019,NE W YORK,UK
+A020,to kyo,uae
+A021,Accra,Germany
+A022,Accra,Germany
+A023,New York,France
+A024,Dubai,UAE
+A025,Berlin,France
+A026,New York,Ghana
+A027,London,USA
+A028,pa ris,US A
+A029,pa ris,Ghana
+A030,BE RLIN,USA
+A031,Dubai,ja pan
+A032,Paris,JA PAN
+A033,Dubai,UK
+A034,Dubai,UK
+A035,AC CRA,FR ANCE
+A036,Paris,UK
+A037,Berlin,france
+A038,Berlin,Germany
+A039,New York,UAE
+A040,Accra,France
+A041,New York,Japan
+A042,New York,UAE
+A043,London,USA
+A044,Accra,France
+A045,Tokyo,Germany
+A046,dubai,Japan
+A047,DU BAI,GH ANA
+A048,lo ndon,Germany
+A049,LO NDON,Ghana
+A050,New York,ua e
+A051,New York,UK
+A052,Paris,GH ANA
+A053,TOKYO,Japan
+A054,London,USA
+A055,Tokyo,France
+A056,New York,UAE
+A057,BERLIN,us a
+A058,NEW YORK,France
+A059,Accra,US A
+A060,ac cra,Japan
+A061,Accra,France
+A062,Accra,GE RMANY
+A063,ne w york,Germany
+A064,Tokyo,Japan
+A065,New York,Germany
+A066,NE W YORK,ua e
+A067,NEW YORK,UAE
+A068,Tokyo,FRANCE
+A069,Berlin,UAE
+A070,berlin,uk
+A071,New York,Germany
+A072,PARIS,UAE
+A073,New York,Ghana
+A074,Accra,France
+A075,LONDON,UK
+A076,Berlin,UK
+A077,New York,fr ance
+A078,Paris,USA
+A079,Accra,France
+A080,Accra,UAE
+A081,Dubai,Japan
+A082,DU BAI,Japan
+A083,pa ris,us a
+A084,Tokyo,UAE
+A085,London,ua e
+A086,London,UK
+A087,Accra,USA
+A088,BERLIN,France
+A089,Berlin,UK
+A090,berlin,UK
+A091,Tokyo,UK
+A092,Tokyo,GH ANA
+A093,Berlin,GERMANY
+A094,new york,GERMANY
+A095,New York,uae
+A096,Berlin,UK
+A097,dubai,uae
+A098,New York,UAE
+A099,Tokyo,Ghana
+A100,to kyo,UK
+A101,London,UK
+A102,Dubai,fr ance
+A103,Dubai,UK
+A104,PA RIS,Ghana
+A105,Accra,UAE
+A106,Tokyo,Japan
+A107,Dubai,Japan
+A108,New York,France
+A109,DU BAI,UAE
+A110,London,USA
+A111,to kyo,UK
+A112,London,France
+A113,Accra,Germany
+A114,New York,UK
+A115,Accra,UK
+A116,Tokyo,gh ana
+A117,Berlin,GERMANY
+A118,New York,USA
+A119,Berlin,Japan
+A120,Berlin,France
+A121,du bai,fr ance
+A122,Paris,Japan
+A123,Berlin,USA
+A124,Accra,UK
+A125,Paris,Ghana
+A126,Berlin,UK
+A127,London,Japan
+A128,Accra,UK
+A129,to kyo,JA PAN
+A130,ne w york,Ghana
+A131,Accra,France
+A132,Accra,fr ance
+A133,NEW YORK,UK
+A134,NE W YORK,USA
+A135,DU BAI,UA E
+A136,Berlin,Ghana
+A137,Accra,USA
+A138,London,uk
+A139,Tokyo,Germany
+A140,Paris,gh ana
+A141,Dubai,UAE
+A142,Tokyo,Germany
+A143,Tokyo,UK
+A144,New York,Japan
+A145,Berlin,Germany
+A146,PARIS,Ghana
+A147,New York,USA
+A148,PA RIS,Japan
+A149,Dubai,UK
+A150,New York,UK
+A151,NEW YORK,USA
+A152,London,usa
+A153,london,Japan
+A154,Accra,FRANCE
+A155,DUBAI,USA
+A156,tokyo,Ghana
+A157,berlin,Japan
+A158,Berlin,GHANA
+A159,Paris,Japan
+A160,Dubai,Japan
+A161,DUBAI,UK
+A162,Dubai,uae
+A163,LONDON,UK
+A164,to kyo,Germany
+A165,pa ris,GHANA
+A166,New York,fr ance
+A167,pa ris,UK
+A168,Tokyo,USA
+A169,LONDON,USA
+A170,Tokyo,USA
+A171,Dubai,uk
+A172,Paris,JA PAN
+A173,London,uae
+A174,BERLIN,japan
+A175,New York,Japan
+A176,Dubai,UAE
+A177,Dubai,Germany
+A178,London,UK
+A179,New York,UAE
+A180,London,US A
+A181,Paris,UAE
+A182,berlin,UAE
+A183,Tokyo,Germany
+A184,Paris,UAE
+A185,Berlin,Germany
+A186,London,UK
+A187,Berlin,UK
+A188,ne w york,GERMANY
+A189,BE RLIN,USA
+A190,du bai,USA
+A191,TO KYO,gh ana
+A192,Berlin,USA
+A193,Tokyo,Germany
+A194,Accra,France
+A195,Tokyo,UAE
+A196,Tokyo,UK
+A197,London,uae
+A198,Accra,JA PAN
+A199,Accra,GERMANY
+A200,New York,Germany
+A201,Tokyo,UAE
+A202,London,UAE
+A203,London,Germany
+A204,ACCRA,UAE
+A205,Accra,FRANCE
+A206,Paris,UK
+A207,DUBAI,UAE
+A208,Tokyo,GH ANA
+A209,LO NDON,France
+A210,DUBAI,France
+A211,Tokyo,Japan
+A212,London,UK
+A213,London,GERMANY
+A214,Paris,UK
+A215,Dubai,UAE
+A216,New York,us a
+A217,Berlin,Germany
+A218,Berlin,Germany
+A219,Dubai,Japan
+A220,Berlin,uk
+A221,Paris,france
+A222,Berlin,Japan
+A223,Tokyo,gh ana
+A224,Accra,Ghana
+A225,New York,USA
+A226,TOKYO,France
+A227,Dubai,Japan
+A228,Paris,Japan
+A229,Paris,UK
+A230,New York,Japan
+A231,tokyo,FR ANCE
+A232,Paris,UK
+A233,New York,FRANCE
+A234,DUBAI,UK
+A235,be rlin,Japan
+A236,New York,Ghana
+A237,Berlin,Ghana
+A238,Dubai,USA
+A239,Accra,USA
+A240,PARIS,USA
+A241,Berlin,France
+A242,Dubai,UK
+A243,London,usa
+A244,Berlin,FRANCE
+A245,Paris,USA
+A246,PARIS,ja pan
+A247,Berlin,uae
+A248,Paris,Germany
+A249,DUBAI,France
+A250,ac cra,France
+A251,DUBAI,UK
+A252,Accra,USA
+A253,New York,UK
+A254,Berlin,gh ana
+A255,Accra,France
+A256,tokyo,UAE
+A257,ne w york,FR ANCE
+A258,New York,UAE
+A259,London,UK
+A260,New York,UK
+A261,Berlin,Japan
+A262,PA RIS,Ghana
+A263,new york,France
+A264,du bai,Japan
+A265,PA RIS,france
+A266,du bai,GHANA
+A267,London,Ghana
+A268,New York,ge rmany
+A269,New York,france
+A270,NEW YORK,Ghana
+A271,LONDON,USA
+A272,pa ris,Germany
+A273,Paris,USA
+A274,ac cra,GERMANY
+A275,New York,USA
+A276,Paris,fr ance
+A277,LO NDON,Ghana
+A278,Paris,UK
+A279,Dubai,UAE
+A280,New York,usa
+A281,NE W YORK,Germany
+A282,LO NDON,Ghana
+A283,New York,Germany
+A284,London,USA
+A285,New York,UK
+A286,Accra,FR ANCE
+A287,DU BAI,UK
+A288,Paris,UK
+A289,LO NDON,uk
+A290,Paris,FR ANCE
+A291,Berlin,USA
+A292,New York,UA E
+A293,London,USA
+A294,London,USA
+A295,Berlin,France
+A296,Tokyo,Ghana
+A297,London,ua e
+A298,Paris,UK
+A299,London,USA
+A300,Accra,Japan
+A301,London,Japan
+A302,London,UK
+A303,London,GERMANY
+A304,LONDON,Germany
+A305,BE RLIN,Japan
+A306,Dubai,Japan
+A307,Berlin,France
+A308,DU BAI,UAE
+A309,Tokyo,Ghana
+A310,Berlin,Germany
+A311,Accra,UK
+A312,be rlin,germany
+A313,Tokyo,US A
+A314,Berlin,FRANCE
+A315,DUBAI,UK
+A316,Berlin,UK
+A317,AC CRA,USA
+A318,Paris,ghana
+A319,Paris,japan
+A320,Dubai,Ghana
+A321,London,Ghana
+A322,Tokyo,gh ana
+A323,New York,ghana
+A324,London,JA PAN
+A325,Paris,JA PAN
+A326,Paris,France
+A327,Tokyo,France
+A328,New York,Ghana
+A329,LO NDON,gh ana
+A330,Tokyo,US A
+A331,London,France
+A332,Berlin,UK
+A333,Paris,Japan
+A334,Tokyo,Ghana
+A335,to kyo,Japan
+A336,Berlin,France
+A337,Berlin,GE RMANY
+A338,be rlin,GE RMANY
+A339,dubai,FRANCE
+A340,Berlin,USA
+A341,Accra,Japan
+A342,Tokyo,France
+A343,Paris,UAE
+A344,London,France
+A345,Accra,FR ANCE
+A346,Accra,usa
+A347,BE RLIN,Ghana
+A348,New York,UAE
+A349,NE W YORK,France
+A350,London,Japan
+A351,London,France
+A352,pa ris,France
+A353,Tokyo,ghana
+A354,lo ndon,UK
+A355,Paris,UA E
+A356,Dubai,Ghana
+A357,paris,Japan
+A358,Paris,GE RMANY
+A359,Paris,Japan
+A360,NEW YORK,USA
+A361,Accra,UAE
+A362,BE RLIN,Japan
+A363,Berlin,UAE
+A364,PARIS,japan
+A365,Berlin,Germany
+A366,Berlin,France
+A367,Berlin,Ghana
+A368,Dubai,France
+A369,London,France
+A370,Tokyo,USA
+A371,berlin,USA
+A372,NEW YORK,France
+A373,Dubai,France
+A374,Paris,ja pan
+A375,DU BAI,japan
+A376,Berlin,UAE
+A377,New York,usa
+A378,New York,Germany
+A379,PA RIS,France
+A380,Tokyo,Germany
+A381,DUBAI,GERMANY
+A382,London,Germany
+A383,Tokyo,Germany
+A384,paris,Ghana
+A385,Paris,UK
+A386,Dubai,UK
+A387,New York,FR ANCE
+A388,BERLIN,UAE
+A389,NEW YORK,GE RMANY
+A390,London,gh ana
+A391,DUBAI,uk
+A392,Dubai,germany
+A393,dubai,UAE
+A394,London,Germany
+A395,be rlin,UK
+A396,BE RLIN,Germany
+A397,Berlin,UAE
+A398,New York,France
+A399,New York,France
+A400,london,UK
+A401,AC CRA,USA
+A402,Accra,USA
+A403,Berlin,Ghana
+A404,Dubai,France
+A405,Paris,usa
+A406,Accra,UK
+A407,New York,Japan
+A408,ACCRA,UK
+A409,Paris,FRANCE
+A410,Paris,USA
+A411,TO KYO,GH ANA
+A412,London,France
+A413,Berlin,USA
+A414,Berlin,UA E
+A415,Tokyo,USA
+A416,Accra,France
+A417,London,FRANCE
+A418,tokyo,Japan
+A419,Berlin,france
+A420,London,France
+A421,Paris,UAE
+A422,New York,UAE
+A423,Tokyo,ghana
+A424,Dubai,ja pan
+A425,Berlin,UK
+A426,Accra,GE RMANY
+A427,BE RLIN,UAE
+A428,AC CRA,FR ANCE
+A429,dubai,ja pan
+A430,DUBAI,japan
+A431,pa ris,Ghana
+A432,NEW YORK,UAE
+A433,DU BAI,USA
+A434,Dubai,UK
+A435,Dubai,France
+A436,NEW YORK,FRANCE
+A437,Paris,JAPAN
+A438,paris,Japan
+A439,LO NDON,JA PAN
+A440,New York,Germany
+A441,New York,UK
+A442,LONDON,Germany
+A443,LONDON,USA
+A444,Berlin,France
+A445,London,JA PAN
+A446,Tokyo,Japan
+A447,Paris,UK
+A448,Paris,France
+A449,Tokyo,France
+A450,Dubai,UAE
+A451,Berlin,UAE
+A452,Berlin,UK
+A453,Paris,ja pan
+A454,Dubai,Germany
+A455,Tokyo,Germany
+A456,Paris,UAE
+A457,BE RLIN,Germany
+A458,berlin,us a
+A459,Tokyo,Germany
+A460,to kyo,USA
+A461,Berlin,UAE
+A462,London,UAE
+A463,BERLIN,USA
+A464,Paris,Ghana
+A465,pa ris,France
+A466,TO KYO,Japan
+A467,New York,Japan
+A468,New York,France
+A469,Dubai,FR ANCE
+A470,London,Germany
+A471,LO NDON,Ghana
+A472,PA RIS,ghana
+A473,New York,UAE
+A474,Accra,Ghana
+A475,London,Germany
+A476,Paris,Germany
+A477,Tokyo,Germany
+A478,Berlin,Germany
+A479,New York,ua e
+A480,London,USA
+A481,TOKYO,France
+A482,Tokyo,UK
+A483,Dubai,USA
+A484,Paris,UK
+A485,Tokyo,UAE
+A486,LO NDON,UAE
+A487,Accra,UAE
+A488,London,GH ANA
+A489,London,UK
+A490,Berlin,UA E
+A491,London,ja pan
+A492,new york,UA E
+A493,Accra,France
+A494,pa ris,USA
+A495,Berlin,USA
+A496,Paris,France
+A497,LONDON,France
+A498,accra,UAE
+A499,TOKYO,france
+A500,London,uk
